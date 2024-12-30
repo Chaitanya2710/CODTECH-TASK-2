@@ -50,3 +50,11 @@ Node.js & Express: Backend server handling API requests.
 MongoDB & Mongoose: Database system to store and retrieve data.
 dotenv: To manage environment variables securely.
 CORS: To handle cross-origin requests between the backend and frontend.
+
+# Output
+![screencapture-localhost-5173-2024-12-30-23_34_41](https://github.com/user-attachments/assets/8b93c060-5139-408d-ae73-7b691d2c12ba)
+
+![screencapture-localhost-5173-favRecipe-2024-12-30-23_34_30](https://github.com/user-attachments/assets/17dd945c-8d7d-4665-be17-afc0ef638a8b)
+
+![screencapture-localhost-5173-myRecipe-2024-12-30-23_34_09](https://github.com/user-attachments/assets/fa32e967-b2c8-4a50-b301-439e4385b8cb)
+
